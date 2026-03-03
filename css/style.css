@@ -1,0 +1,12 @@
+/*element selector*/
+/*ereferensi web colorhunt.co*/
+body{
+    background-color: #ffdbf7;
+    color: white;
+    font-family: Verdana;
+}
+.txt-center{text-align: center;}
+.bg-warning {background-color: aqua; border-radius: 20px;}
+.txt-black {color: black;}
+.p-1{padding: 50px;} /*memberi jarak sisi dalam border*/
+.m-1{margin: 20px;} /*memberi jarak sisi luar border*/
